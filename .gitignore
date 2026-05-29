@@ -1,0 +1,23 @@
+# Environment variables — NEVER commit
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

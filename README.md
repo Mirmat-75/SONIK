@@ -51,7 +51,7 @@ Music events are scattered across dozens of platforms, making discovery fragment
 ## APIs & Services Used
 
 - **Ticketmaster Discovery API** – event search, detail, images, ticket links
-- **Anthropic Claude API** (`claude-sonnet-4-20250514`) – recommendation blurbs
+- **Gemini AI** (`Google AI Studio`) – recommendation blurbs
 - **Supabase** – PostgreSQL `favorites` table, `user_profiles` table, JWT auth
 - **Vercel** – frontend static hosting with CDN
 - **Render** – FastAPI backend web service

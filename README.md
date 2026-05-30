@@ -42,7 +42,7 @@ Music events are scattered across dozens of platforms, making discovery fragment
 | Database | Supabase PostgreSQL | Managed DB + Auth-as-a-service, free tier, RLS policies |
 | Auth | Supabase Auth | Managed provider — no rolling our own password storage |
 | Events API | Ticketmaster Discovery | Real-time structured data, 5k req/day free |
-| AI | Anthropic Claude API | Personalised recommendation blurbs, concurrent fan-out |
+| AI | Gemini AI | Personalised recommendation blurbs, concurrent fan-out |
 | Hosting FE | Vercel | CDN, HTTPS, Git CI out of the box |
 | Hosting BE | Render | Python support, auto-deploy from main |
 

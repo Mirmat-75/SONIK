@@ -27,8 +27,8 @@ Music events are scattered across dozens of platforms, making discovery fragment
                     ┌──────────────────────────────────────┼───────────────┐
                     │                                       │               │
              ┌──────▼───────┐                    ┌─────────▼──────┐  ┌────▼───────┐
-             │  Supabase    │                    │  Ticketmaster  │  │ Anthropic  │
-             │  PostgreSQL  │                    │  Discovery API │  │ Claude API │
+             │  Supabase    │                    │  Ticketmaster  │  │            │
+             │  PostgreSQL  │                    │  Discovery API │  │ Gemini AI  │
              │  + Auth      │                    │                │  │            │
              └──────────────┘                    └────────────────┘  └────────────┘
 ```
